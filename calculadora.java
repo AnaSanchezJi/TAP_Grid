@@ -15,19 +15,15 @@ import javax.swing.*;
               add(label3);
           label4 = new JLabel("  ");
               add(label4);
-       
-//botones del- 1,2,3,4
+      
+//Botones 1-16 
+	button1 = new JButton("1");
 
-button1= new JButton("1");  
- 
-button2= new JButton("2");  
+	button2 = new JButton("2");
 
-button3= new JButton("3");  
+	button3 = new JButton("3");
 
-button4= new JButton("4");  
-	
-
-//Botones 5,6,7,8,9 
+	button4 = new JButton("4");
 
 	button5 = new JButton("5");
 
@@ -39,7 +35,7 @@ button4= new JButton("4");
 
 	button9 = new JButton("9");
 
-	button0= new JButton("0"); 
+	button0 = new JButton("0"); 
 	
 	button11= new JButton("/"); 
 	button12= new JButton("*"); 
@@ -47,6 +43,7 @@ button4= new JButton("4");
 	button14= new JButton("+"); 
 	button15= new JButton("="); 
 	button16= new JButton("."); 
+	
 	add(button7);
 	add(button8);
 	add(button9);
