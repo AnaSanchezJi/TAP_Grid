@@ -6,10 +6,14 @@ import javax.swing.*;
 
    public layout (){
     setLayout (new GridLayout (2,3));
+<<<<<<< HEAD
     /*compañeros cuando vean esto en la parte donde escribimos gridlayout(2,3)indicamos que habra 2 filas y 3 columnas y 
 en ese orden acomoda los objetos en el orden que los ponemos abajo empesando por fila y despues por columna cuando lo
  ejecuten podran apreciar masomenos ocmo es esto que digo cualquier duda mañana vemos :)*/
 
+=======
+    /*este git no se que pex no me detecta los cambios que ago habeses pero okay compañeros cuando vean esto en la parte donde escribimos gridlayout(2,3)indicamos que habra 2 filas y 3 columnas y en ese orden acomoda los objetos en el orden que los ponemos abajo empesando por fila y despues por columna cuando lo ejecuten podran apreciar masomenos ocmo es esto que digo cualquier duda mañana vemos :)asdasdasdasdasdasdasdasdasd*/
+>>>>>>> 1f96d968b0e4c86b151910a7ea97710bc3002621
     button1 = new JButton("Button 1");
     add(button1);
    
